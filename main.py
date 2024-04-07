@@ -82,7 +82,7 @@ while play :
     email_input.clear()
 
     # Voeg je e-mailadres toe aan het invoerveld
-    email_input.send_keys("bankzitters.management@gmail.com")
+    email_input.send_keys("e-mail")
     email_input.send_keys(Keys.ENTER)
 
 
